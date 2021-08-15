@@ -7,10 +7,7 @@ blurb:
   text: 獨木舟是代表....
 intro:
   heading: 我們提供怎樣服務
-  text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  text: 蘭嶼是...
 products:
   - image: img/illustrations-coffee.svg
     text: We sell green and roasted coffee beans that are sourced directly from
