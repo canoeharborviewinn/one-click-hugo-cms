@@ -7,7 +7,7 @@ blurb:
   text: 獨木舟是代表....
 intro:
   heading: 我們提供怎樣服務
-  text: 蘭嶼是...
+  text: 蘭嶼是位於台灣的東南方
 products:
   - image: img/illustrations-coffee.svg
     text: We sell green and roasted coffee beans that are sourced directly from
