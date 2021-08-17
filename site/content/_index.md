@@ -9,24 +9,21 @@ blurb:
 
     莉子姐來自椰油部落，17歲台北打拼，繞了一圈回來家鄉，做著小攤販獨木舟飲料店，小時候莉子姐的家人以手工藝『獨木舟』維生，一艘艘獨木舟不只帶給遊客回憶，也承載對家庭愛與關懷，現在莉子姐想用『獨木舟』傳承下去，將這份感動帶給來蘭嶼的旅人。
 intro:
-  heading: 我們在哪裡
-  text: 蘭嶼是位於台灣的東南方的一座海島，獨木舟海景民宿就在最熱鬧的椰油部落，近開元港（三分鐘路程），附近有著7-11與小吃店，店家也提供多種水上活動，愛玩水的你在等什麼呢？
+  heading: 今晚你想住什麼？
+  text: 蘭嶼是位於台灣的東南方的一座海島，獨木舟海景民宿就在島上最熱鬧的椰油部落，近開元港（三分鐘路程），附近有著7-11與小吃店，店家也提供多種水上活動，愛玩水的你在等什麼呢？
 products:
   - image: img/illustrations-coffee.svg
-    text: We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
+    text: 兩人房：東清房，戶外有一個小露台，海景第一排，直接欣賞日落美景。
   - image: /img/illustrations-coffee-gear.svg
-    text: We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+    text: 四人房：
 values:
-  heading: Our values
-  text: Coffee is an amazing part of human culture but it has a dark side too –
-    one of colonialism and mindless abuse of natural resources and human lives.
-    We want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  heading: 地上爬，水裡游
+  text: |-
+    (1)浮潛(09:00~11:00、14:00~16:00；含裝備、保險；防曬油勿擦)：500元/人。
+    (2)體驗潛水(1.5小時；含裝備；需自備記憶卡或傳輸線、業者幫拍照錄影)：2600元/人。
+    (3)登蘭嶼大天池(08:00~12:00)：7人以下2500元/趟，1人/350元。
+    (4)達悟族傳統地下屋解說(09:00~10:00)：250元/人。
+    (5)夜間生態觀察(09:00~21:00)：350元/人。
+    (6)租借機車(不含油錢100元)、汽車(不含油錢):以24小時計，機車500元/台。
+    (7)蘭嶼環島導覽(約莫3~4小時):2500元/趟。
 ---
