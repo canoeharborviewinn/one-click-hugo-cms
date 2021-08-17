@@ -16,6 +16,7 @@ products:
     text: 兩人房：東清房，戶外有一個小露台，海景第一排，直接欣賞日落美景。
   - image: /img/illustrations-coffee-gear.svg
     text: 四人房：
+---
 values:
   heading: 地上爬，水裡游
   text: |-
@@ -27,4 +28,4 @@ values:
     (6)租借機車(不含油錢100元)、汽車(不含油錢):以24小時計，機車500元/台。
     (7)蘭嶼環島導覽(約莫3~4小時):2500元/趟。
     
----
+
