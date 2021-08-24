@@ -17,6 +17,8 @@ products:
     text: 戶外有一個小露台，海景第一排，直接欣賞日落美景。
   - image: /img/illustrations-coffee-gear.svg
     text: 四人房：
+  - image: /img/illustrations-coffee-gear.svg
+    text: 三人房：
 values:
   heading: 地上爬，水裡游
   text: |-
