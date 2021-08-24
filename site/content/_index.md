@@ -8,7 +8,7 @@ blurb:
   heading: 獨木舟是這樣的故事......
   text: >-
     「獨木舟是愛與感恩」——莉子姐
-
+    
     莉子姐來自椰油部落，17歲台北打拼，繞了一圈回來家鄉，做著小攤販獨木舟飲料店，小時候莉子姐的家人以手工藝『獨木舟』維生，一艘艘獨木舟不只帶給遊客回憶，也承載對家庭愛與關懷，現在莉子姐想用『獨木舟』傳承下去，將這份感動帶給來蘭嶼的旅人。
 intro:
   heading: 今晚你想住什麼？
@@ -16,7 +16,7 @@ intro:
 products:
   - image: img/illustrations-coffee.svg
     text: 兩人房：東清房、野銀房
-    text: 戶外有一個小露台，海景第一排，直接欣賞日落美景。
+    caption: child戶外有一個小露台，海景第一排，直接欣賞日落美景。
   - image: /img/illustrations-coffee-gear.svg
     text: 四人房：
   - image: /img/illustrations-coffee-gear.svg
