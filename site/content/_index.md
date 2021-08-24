@@ -16,12 +16,6 @@ products:
     text: 雙人房：東清房、椰油房、朗島房，戶外有一個小露台，海景第一排，直接欣賞日落美景。價錢：2800/晚
   - image: /img/illustrations-coffee-gear.svg
     text: 雙人房：野銀房、紅頭房、漁人房
-  - image: /img/illustrations-coffee-gear.svg
-    text: 四人房：
-  - image: /img/illustrations-coffee-gear.svg
-    text: 四人房：
-  - image: /img/illustrations-coffee-gear.svg
-    text: 四人房：
 values:
   heading: 地上爬，水裡游
   text: |-
