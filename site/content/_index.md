@@ -13,9 +13,7 @@ intro:
   text: 蘭嶼是位於台灣的東南方的一座海島，獨木舟海景民宿就在島上最熱鬧的椰油部落，近開元港（三分鐘路程），附近有著7-11與小吃店，店家也提供多種水上活動，愛玩水的你在等什麼呢？
 products:
   - image: img/illustrations-coffee.svg
-    text: 雙人房：東清房、椰油房、朗島房
-    text: 戶外有一個小露台，海景第一排，直接欣賞日落美景。
-    text: 價錢：2800/晚
+    text: 雙人房：東清房、椰油房、朗島房，戶外有一個小露台，海景第一排，直接欣賞日落美景。價錢：2800/晚
   - image: /img/illustrations-coffee-gear.svg
     text: 雙人房：野銀房、紅頭房、漁人房
   - image: /img/illustrations-coffee-gear.svg
