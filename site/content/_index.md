@@ -1,23 +1,23 @@
 ---
 title: 獨木舟海景山莊
 subtitle: Canoe Harbor View Inn
-date: 2020-09-24T22:05:52+08:00
-type: post
 image: img/lanyu-hotel_2072402.jpg
 blurb:
   heading: 獨木舟是這樣的故事......
   text: >-
     「獨木舟是愛與感恩」——莉子姐
-    
+
     莉子姐來自椰油部落，17歲台北打拼，繞了一圈回來家鄉，做著小攤販獨木舟飲料店，小時候莉子姐的家人以手工藝『獨木舟』維生，一艘艘獨木舟不只帶給遊客回憶，也承載對家庭愛與關懷，現在莉子姐想用『獨木舟』傳承下去，將這份感動帶給來蘭嶼的旅人。
 intro:
   heading: 今晚你想住什麼？
   text: 蘭嶼是位於台灣的東南方的一座海島，獨木舟海景民宿就在島上最熱鬧的椰油部落，近開元港（三分鐘路程），附近有著7-11與小吃店，店家也提供多種水上活動，愛玩水的你在等什麼呢？
 products:
-  - image: img/illustrations-coffee.svg
-    text: 兩人房：東清房、野銀房<br />child戶外有一個小露台，海景第一排，直接欣賞日落美景。
   - image: /img/illustrations-coffee-gear.svg
     text: 四人房：
+  - image: img/illustrations-coffee.svg
+    text: |-
+      兩人房：東清房、野銀房                               
+      戶外有一個小露台，海景第一排，直接欣賞日落美景。
   - image: /img/illustrations-coffee-gear.svg
     text: 四人房：
 values:
@@ -30,4 +30,6 @@ values:
     (5)夜間生態觀察(09:00~21:00)：350元/人。
     (6)租借機車(不含油錢100元)、汽車(不含油錢):以24小時計，機車500元/台。
     (7)蘭嶼環島導覽(約莫3~4小時):2500元/趟。
+date: 2020-09-24T22:05:52+08:00
+type: post
 ---
