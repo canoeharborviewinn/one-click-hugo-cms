@@ -1,7 +1,7 @@
 ---
 title: 獨木舟海景山莊
 subtitle: Canoe Harbor View Inn
-image: img/canoe_front_door.jpg
+image: img/lanyu-hotel_2072402.jpg
 blurb:
   heading: 獨木舟是這樣的故事......
   text: >-
@@ -14,7 +14,7 @@ intro:
 products:
   - image: img/2_people.jpg
     text: |-
-      [面海兩人房]
+      面海景兩人房
       椰油房，東清房，郎島房
   - image: img/2_people.jpg
     text: |
@@ -22,18 +22,18 @@ products:
       野銀房，紅頭房，漁人房     
   - image: img/2_people.jpg
     text: |
-      山景兩人房
+      森林景兩人房
       角蟂房、飛魚房
   - text: |-
       面海四人房
       船眼房
     image: img/4_people.jpg
   - text: |-
-      側面面海四人房
+      側面海四人房
       漂流木
     image: img/4_people.jpg
   - text: |-
-      <面山四人房>
+      森林景四人房
       水芋房
     image: img/4_people.jpg
 values:
