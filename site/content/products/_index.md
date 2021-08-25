@@ -68,42 +68,56 @@ testimonials:
 full_image: /img/products-full-width.jpg
 pricing:
   heading: 水上活動
-  description: We make it easy to make great coffee a part of your life. Choose
-    one of our monthly subscription plans to receive great coffee at your
-    doorstep each month. Contact us about more details and payment info.
+  description: 提供豐富的水上活動給旅客，享受蘭嶼風情
   plans:
     - description: 活動時間：9:00-11:00 14:00-16:00
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
+        - //
+        - //
+        - //
       plan: 浮潛
       price: "500"
     - description: 約1.5小時
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
+        - //
+        - //
+        - //
       plan: 體驗潛水
       price: "2600"
     - description: 活動時間：8:00-12:00
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
+        - //
+        - //
+        - //
       plan: 大天池
       price: "350"
     - plan: 地下屋
       price: "300"
       description: 活動時間：9:00-10:00
+      items:
+        - //
+        - //
+        - //
     - plan: 夜觀
       price: "350"
       description: 活動時間：19:00-21:30
+      items:
+        - //
+        - //
+        - //
     - plan: 環島解說
       price: "2500"
       description: 約3-4小時
+      items:
+        - //
+        - //
+        - //
     - plan: 機車租借
       price: "500"
       description: 一日（24小時）
+      items:
+        - //
+        - //
+        - //
 type: products
 ---
