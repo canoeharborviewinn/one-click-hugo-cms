@@ -48,7 +48,7 @@ testimonials:
       their stance on empowering farmers and transparency.
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: 水上活動
+  heading: 活動價位
   description: 提供豐富的水上活動給旅客，享受蘭嶼風情
   plans:
     - description: 活動時間：9:00-11:00 14:00-16:00
