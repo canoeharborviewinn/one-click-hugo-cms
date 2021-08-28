@@ -10,10 +10,13 @@ intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
       text: |+
-        椰油房，東清房，郎島房
+        雙人房：椰油房，東清房，郎島房---面海有陽台，海景第一排，下午5點左右，可以看到閃耀的夕陽
 
     - image: /img/illustrations-coffee-gear.svg
-      text: 野銀房，紅頭房，漁人房
+      text: |-
+        雙人房：野銀房，紅頭房，漁人房---側面面海有陽台，能看到午後夕陽。
+
+        價錢
     - image: /img/illustrations-tutorials.svg
       text: 角蟂房、飛魚房
     - image: /img/illustrations-meeting-space.svg
