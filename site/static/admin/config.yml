@@ -20,7 +20,7 @@ collections: # A list of collections the CMS should be able to edit
     files:
       - file: "site/content/_index.md"
         label: "Home Page"
-        name: "Home"
+        name: "home"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Subtitle, name: subtitle, widget: string}
@@ -55,8 +55,8 @@ collections: # A list of collections the CMS should be able to edit
                 name: text
                 widget: text
       - file: "site/content/products/_index.md"
-        label: "Product Page"
-        name: "Product"
+        label: "Products Page"
+        name: "products"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
