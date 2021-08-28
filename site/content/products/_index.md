@@ -25,7 +25,7 @@ intro:
       image: img/diving.jpg
   heading: 房型介紹
   description: |
-    提供多種房型，兩人房，四人房，景色別緻
+    提供多種房型，兩人房，四人房，景色別緻123
 main:
   heading: 在地蘭嶼活動
   description: |
