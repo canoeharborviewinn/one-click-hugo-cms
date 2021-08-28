@@ -19,8 +19,8 @@ collections: # A list of collections the CMS should be able to edit
     label: "Pages"
     files:
       - file: "site/content/_index.md"
-        label: "首頁"
-        name: "首頁"
+        label: "Home Page"
+        name: "Home"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Subtitle, name: subtitle, widget: string}
@@ -55,8 +55,8 @@ collections: # A list of collections the CMS should be able to edit
                 name: text
                 widget: text
       - file: "site/content/products/_index.md"
-        label: "產品頁"
-        name: "房型、活動"
+        label: "Product Page"
+        name: "Product"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
