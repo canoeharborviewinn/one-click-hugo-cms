@@ -1,5 +1,5 @@
 ---
-title: 提供的服務
+title: 房型與活動
 image: img/diving.jpg
 heading: 房型介紹
 description: Kaldi is the ultimate spot for coffee lovers who want to learn
@@ -47,10 +47,9 @@ main:
     image: img/亞美.jpg
 testimonials:
   - author: 鄭小豪
-    quote: 蘭嶼的美有種靜謐的美，看似全黑卻充滿生命力，星河銀河交錯夜間生物的活力，聽著當地部落青年訴說著阿公，阿祖的日笨本軍的歷史故事！
-  - author: Philipp Trommler
-    quote: Kaldi is the place to go if you want the best quality coffee. I love
-      their stance on empowering farmers and transparency.
+    quote: 蘭嶼的美有種靜謐的美，看似全黑卻充滿生命力，星河銀河交錯夜間生物的活力，聽著當地部落青年訴說著阿公，阿祖的日本軍的歷史故事！
+  - author: 獨角獸
+    quote: "111111111111111111111111111"
 full_image: img/飛魚乾.jpg
 pricing:
   heading: 活動價位
