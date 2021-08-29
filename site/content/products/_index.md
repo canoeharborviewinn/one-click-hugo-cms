@@ -22,13 +22,13 @@ intro:
         雙人房：角鴞房、飛魚房---面清幽蘭嶼山景，別緻客房。
         價位：2300
     - image: img/船眼.jpg
-      text: 四人房：船眼房。適合家庭、學生團、朋友團，有寬敞的交誼廳與面海海景有陽台，全民宿最好景觀房。價位：4000
+      text: 四人房：船眼房---適合家庭、學生團、朋友團，有寬敞的交誼廳與面海海景有陽台，全民宿最好景觀房。價位：4000
     - image: img/漂流木.jpg
       text: |
-        四人房：漂流木。面清幽蘭嶼山景有陽台，轉個頭能看到午後夕陽與靜謐海景。
+        四人房：漂流木---面清幽蘭嶼山景有陽台，轉個頭能看到午後夕陽與靜謐海景。
         價位：3200
     - text: |
-        四人房：水芋房。面海有陽台，海景第一排，下午5點左右，可以看到閃耀的夕陽。價位：3600
+        四人房：水芋房---面海有陽台，海景第一排，下午5點左右，可以看到閃耀的夕陽。價位：3600
       image: img/4_people.jpg
   heading: 房型介紹
   description: 提供多種房型，兩人房，四人房，每間房間各有特色風景。獨木舟座落於，開元港附近，最熱鬧的椰油村落，在獨木舟，房型是以當地部落命名，來看看每間房型的特色吧。
@@ -46,9 +46,8 @@ main:
     alt: Coffee beans
     image: img/亞美.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
+  - author: 鄭小豪
+    quote: 蘭嶼的美有種靜謐的美，看似全黑卻充滿生命力，星河銀河交錯夜間生物的活力，聽著當地部落青年訴說著阿公，阿祖的日笨本軍的歷史故事！
   - author: Philipp Trommler
     quote: Kaldi is the place to go if you want the best quality coffee. I love
       their stance on empowering farmers and transparency.
