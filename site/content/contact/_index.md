@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: 聯絡方式
 logo: /img/logo.svg
 contact_entries:
   - heading: 地理位置
@@ -7,9 +7,7 @@ contact_entries:
   - heading: 營業時間
     text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
 ---
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
+位在蘭嶼鄉椰油村的獨木舟，是全島最熱鬧的部落
 
 <h3 class="f4 b lh-title mb2">如何到達…?</h3>
 
