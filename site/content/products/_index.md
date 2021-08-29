@@ -1,5 +1,5 @@
 ---
-title: 房型與活動
+title: 民宿房型與特色活動
 image: img/diving.jpg
 heading: 房型介紹
 description: Kaldi is the ultimate spot for coffee lovers who want to learn
