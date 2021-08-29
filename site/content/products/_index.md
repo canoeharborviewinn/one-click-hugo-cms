@@ -57,53 +57,50 @@ pricing:
   plans:
     - description: 活動時間：9:00-11:00 14:00-16:00
       items:
-        - //
-        - //
-        - //
+        - 含裝備
+        - 含保險
+        - 防曬油勿擦
       plan: 浮潛
       price: "500"
     - description: 約1.5小時
       items:
-        - //
-        - //
-        - //
+        - 含裝備
+        - 自備記憶卡或傳輸線
+        - 業者幫拍照錄影
       plan: 體驗潛水
       price: "2600"
     - description: 活動時間：8:00-12:00
       items:
-        - //
-        - //
-        - //
+        - 當地嚮導解說
+        - 深度探訪
+        - 部落文化
       plan: 大天池
       price: "350"
-    - plan: 地下屋
+    - plan: 地下屋講解
       price: "300"
       description: 活動時間：9:00-10:00
       items:
-        - //
-        - //
-        - //
+        - 部落長者解說
+        - 傳統達悟族文化講解
     - plan: 夜觀
       price: "350"
       description: 活動時間：19:00-21:30
       items:
-        - //
-        - //
-        - //
+        - 夜間生態觀察
+        - 見證傳說中的嘟嘟悟
+        - 海蛇解說
     - plan: 環島解說
       price: "2500"
       description: 約3-4小時
       items:
-        - //
-        - //
-        - //
+        - 蘭嶼環島導覽
     - plan: 機車租借
       price: "500"
       description: 一日（24小時）
       items:
-        - //
-        - //
-        - //
+        - 不含油錢
+        - 須自行加油
+        - 加油站營業至8點
 text: "123123"
 type: products
 ---
