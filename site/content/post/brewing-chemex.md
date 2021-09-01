@@ -1,26 +1,21 @@
 ---
-title: A beginners’ guide to brewing with Chemex
-date: 2017-01-04T15:04:10.000Z
-description: >-
-  Brewing with a Chemex probably seems like a complicated, time-consuming
-  ordeal, but once you get used to the process, it becomes a soothing ritual
-  that's worth the effort every time.
+title: 台東·蘭嶼·獨木舟海景山莊
+date: 2021-08-20T13:00:10.000Z
+description: 這段時間，實在是悶壞了想去蘭嶼的心情又開始蠢蠢欲動心動不如馬上行動，真的很需要來點～小旅行偽出國記得出去走走也要保護自己和別人唷，進蘭嶼我提供了打完疫苗的黃卡-及進去蘭嶼前一天的快篩證明唷保護你我安全人人有責。
 image: /img/blog-chemex.jpg
 ---
+位於蘭嶼碼頭必推海景民宿，店內有許多親和力十足的小幫手，還有滿滿的人情味，走到房內、映入眼簾的海景真的超美超浪漫！陽台搭配自然色的木頭椅子下午夕陽時，坐在陽台～來點啤酒看著大海，品嚐美食，就是享受！不能出國就帶家人來趟蘭嶼渡假吧。這次來蘭嶼-就跟出國沒兩樣，5天4夜裡只能用「好放鬆」三個字來形容。
 
-This [week](/wdwdw) we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts\*.
+其中一晚住宿，我們選擇在地人推薦的「獨木舟海景山莊」，我查了一下在google map評論上有4.6顆好評，在地人說他們2019 年才全新改裝完成！有著當地最強最景觀的發呆亭！聽到這邊不來住一晚怎麼行，實際走訪之後，在發呆亭，放空一下，看著大海，小睡一下，蘭嶼景色美到讓人感動。
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is *"one of the best-designed products of modern times"*, and so is included in the collection of the Museum of Modern Art in New York City.
+我們今日入住【船眼房面海家庭四人套房】，四人房內空間相當的大，房內除了有兩張大床外，還有獨立的客廳跟超大的衛浴設備，還有很吸引我的一大片窗景及面海陽台，一樓大廳的開放式廚房及吧檯可供客人自由使用，地理位置也相當好，離開元碼頭及7-11約5分鐘路程，超市也非常近。
 
-## The little secrets of Chemex brewing
+真的太想念海了…於是我選擇從早待到晚！當太陽消失在海平面，原來是這樣的美！心無比的平靜！看看日落，聽聽海聲～觀賞天空雲的變化⋯⋯畢竟這輩子陪你最久的人是自己，還要一起看風景，還會一起走下去。走久了，累了，就停下來吧～讓心靜一靜………
 
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
+房內以淺藍色為主，雖然不是走豪華路線，但整體的乾淨度，備品部份也都很齊全，無時無刻待在房間都是一種享受，東邊的海看日初，西邊的海看夕陽真的是有截然不同的享受。體來說，四人房加上無敵海景及熱情的老闆，我覺得很滿意。如果有來蘭嶼的朋友們推薦你們有機會的話，一定要來「獨木舟海景山莊」住一晚唷！
 
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
+重點提醒：本民宿只接受「坐船」旅客，因小島氣候不穩常導致飛機停飛機率過高，民宿臨時空房率也會被影響....老闆的心也會跟著受傷
 
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
+來到【獨木舟海景山莊】會有帥氣老闆到門口接待你唷，並且會細心講解注意事項及介紹館內環境，還會提醒你～因為房間是西曬，所以出門冷氣都不要關，這樣回來才會涼爽。
 
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+來到蘭嶼想找間很棒的渡假住宿？想聽大海的聲音？想要拍夕陽美照？那麼獨木舟海景山莊真的很適合你唷
