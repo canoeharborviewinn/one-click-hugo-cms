@@ -1,6 +1,6 @@
 ---
 title: 聯絡方式
-logo: /img/logo.svg
+logo: img/logo.png
 contact_entries:
   - heading: 地理位置
     text: "952台東縣蘭嶼鄉椰油村298號 "
