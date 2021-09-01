@@ -1,27 +1,33 @@
 ---
-title: "Making sense of the SCAA’s new Flavor Wheel"
-date: 2016-12-17T15:04:10.000Z
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
-image: /img/blog-flavor_wheel.jpg
+title: 愛台灣最好的方式就是？慢慢玩
+date: 2016-05-27T15:04:10.000Z
+description: BY 呂昇祐
+image: img/日出.jpg
 ---
+柚子誠懇拜託大家，綠島雖小但可以玩三天，蘭嶼也不大但可以玩四天以上，放假時間不夠請安排一個島嶼慢慢玩就好，這種短時間跳島的玩法是最粗糙且最破壞的旅行方式。我知道大家真的沒太多假期，那就選擇一個島慢慢玩就好，島就在那，維護好隨時來都一樣美麗。
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+其實這種台東綠島蘭嶼三角航線最大的需求其實就是旅行社，還有部分貪心想用簡短假期快閃兩島的自由行遊客。而旅行社設計行程時除了多以利潤為考量外，就是為了滿足這些假期短又貪心想一次玩兩島的遊客。當地人非常討厭這類沾醬油式的遊客，甚至會說這是大便團，因為他們帶來的多數只有破壞跟衝突以及垃圾，還有對蘭嶼文化的誤解，還有觀光的收益基本上都是進入外地業者的口袋中。所以要減少這樣的狀況還是得從教育消費者著手。進而改變蘭嶼跟綠島的旅遊陋習。
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+柚子知道這樣是呼籲擋人財路，但還是得誠懇呼籲，不要買這種三角航線的船班，除非你有七天以上的假期安排兩島。
 
-## What the updates mean to you
+當然也不要參加三天兩夜蘭嶼加綠島這種短期的跳島行程。我都跟朋友說這種行程是浪費時間也浪費錢。
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+這種快速的島嶼旅遊方式所造成的眾多影響可以在現今的綠島可以看得很清楚，而蘭嶼一不小心也可能步入後塵。
 
-- producers
-- roasters
-- importers/exporters
-- retailers
-- manufacturers
-- baristas
+綠島與蘭嶼其實都是國際級的生態島嶼，但卻因為台灣人快速的旅遊方式而受到各種衝擊及破壞。
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+愛蘭嶼跟綠島的方法很簡單，就是慢慢玩而已。
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
+柚子誠懇地呼籲大家一起愛蘭綠。
 
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+不規劃或是不參加一日或兩日遊的蘭嶼跟綠島套裝行程。
+
+希望旅行社不安排跟販售這種一日遊跟兩日遊的島嶼行程。
+
+也希望蘭嶼跟綠島的民宿跟飯店不接只住一天的旅客。
+
+最後請記得找當地人導覽及帶領活動。
+
+至於政府請趕快讓兩個島都實施總量管制吧！總量管制才能讓兩島永續發展。
+
+當然我知道這些短期間都有難度，所以退而求其次，若真的要一次玩兩島，請至少安排蘭嶼兩晚，綠島一晚吧！沒有四天的時間還是在大島漫遊，或是擇一小島慢活吧！
