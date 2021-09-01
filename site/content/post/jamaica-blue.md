@@ -1,28 +1,15 @@
 ---
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
-date: 2017-01-04T15:04:10.000Z
-description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+title: 我們當初夠青春嗎?
+date: 2021-04-15T02:30:05.454Z
+description: 【蘭嶼．獨木舟旅人札記】Canoe Harbor View Inn -「我們當初夠青春嗎?」-
+image: img/學生.jpg
 ---
+「求學時期」大概就是我們揮灑熱情的章節，「沒有瘋狂，就沒有彼此」，手機相簿裡頭總是有這群人的無上限崩壞照，等對方生日時再一一拿出來慶祝彼此又因緣分再多一年的友誼...
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
+就因為當時的我們選擇了瘋狂的方式揮灑青春，因為我們經歷了一趟旅行，「來到蘭嶼」。
 
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
+喝到不醒人事、半夜夜衝、早上看日出、一起潛水，然後再一起曬傷，甚至還做了許多有點害羞的事情成為彼此下次喝酒拿出來取笑的事。年輕的時候不就是這樣，根本不用照著常理去玩，因為大學四年總是給我們一個很好的機會，讓我們用最華麗的方式劃下句點。
 
-## A little history
+這陣子真的好多大學畢業的孩子們，選擇來到獨木舟開啟他們的旅程，而這趟旅程創造了許多好笑的回憶，不經回想起...我們當初也用了什麼方式去度過那一段黃金時期呢？
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
-
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
-
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
-
-## What you need to know before trying
-
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
-
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
-
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
-
+所以我們歡迎隨時想要再一次揮灑青春、再一次瘋狂，甚至直接去喝到躺在海邊看日出也好的一群好朋友們，來到獨木舟，好好得玩吧！
