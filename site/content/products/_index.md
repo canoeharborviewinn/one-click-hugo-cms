@@ -1,6 +1,6 @@
 ---
 title: 民宿房型與特色活動
-image: img/diving.jpg
+image: img/拼板舟.jpg
 heading: 房型介紹
 description: Kaldi is the ultimate spot for coffee lovers who want to learn
   about their java’s origin and support the farmers that grew it. We take coffee
