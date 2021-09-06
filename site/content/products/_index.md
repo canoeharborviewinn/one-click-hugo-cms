@@ -93,6 +93,7 @@ pricing:
       price: "2500"
       description: 約3-4小時
       items:
+        - 一趟不算人數
         - 蘭嶼環島導覽
     - plan: 機車租借
       price: "500"
