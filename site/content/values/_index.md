@@ -1,45 +1,23 @@
 ---
-title: "Values"
+title: 蘭嶼特色
 image: /img/about-jumbotron.jpg
 values:
-  - heading: "Shade-grown coffee"
+  - heading: 夜間生態導覽
+    text: 由當地嚮導（芋頭教練）帶領旅客探索夜間的蘭嶼，全程約1.5小時體驗夜間生態，解說森林與朝間帶生態，講解道地的達悟族歷史。有機會看到，台灣國寶花棋盤腳花、最大寄居蟹、世界最小貓頭鷹品種---角鴞，再以科學的角度看海蛇、陸蟹。
+    imageUrl: /img/about-shade-grown.jpg
+  - heading: 傳統地下屋文化解說
     text: >
-      Coffee is a small tree or shrub that grows in the forest
-      understory in its wild form, and traditionally was grown
-      commercially under other trees that provided shade. The
-      forest-like structure of shade coffee farms provides habitat for
-      a great number of migratory and resident species.
-    imageUrl: "/img/about-shade-grown.jpg"
-  - heading: "Single origin"
+      獨木舟的阿嬤來自在蘭嶼野銀，而野銀部落也保留蘭嶼傳統地下屋，獨木舟阿公將會帶領旅客講解與參觀小時候的住所，裡頭保留當時生活的器具與工具，阿公現身說法，當時的達悟青年怎保衛家園與當時的人如何利用生活智慧在地下屋度過春夏秋東。
+    imageUrl: /img/about-single-origin.jpg
+  - heading: 蘭嶼浮潛
     text: >
-      Single-origin coffee is coffee grown within a single known
-      geographic origin. Sometimes, this is a single farm or a
-      specific collection of beans from a single country. The name of
-      the coffee is then usually the place it was grown to whatever
-      degree available.
-    imageUrl: "/img/about-single-origin.jpg"
-  - heading: "Sustainable farming"
+      身在海島的蘭嶼，是浮潛聖地，蘭嶼有多個神秘秘境適合浮潛。可以花費500/人由專業教練帶領珊瑚礁岩岸，親眼身處海底世界，，如果自己本身會浮潛，蘭嶼也有多個自由浮潛的好去處，例如東清秘境、朗島秘境、母雞岩、潮池等等。
+    imageUrl: /img/about-sustainable-farming.jpg
+  - heading: 大天池導覽
     text: >
-      Sustainable agriculture is farming in sustainable ways based on
-      an understanding of ecosystem services, the study of
-      relationships between organisms and their environment. What
-      grows where and how it is grown are a matter of choice and
-      careful consideration for nature and communities.
-    imageUrl: "/img/about-sustainable-farming.jpg"
-  - heading: "Direct sourcing"
-    text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-direct-sourcing.jpg"
-  - heading: "Reinvest profits"
-    text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-reinvest-profits.jpg"
+      蘭嶼有大小兩個天池，都是火山口，小天池在北，可以機車前往，但道路不平整與陡峭較危險。南方的大天池，若經過幾些下雨的日子，會在火山口積出高山湖泊。大天池，達悟族視為神聖不可侵犯的禁地，攀爬過程要尊重當地傳統。整個來回約3-4小時，必須手腳並用攀登，峭壁上有繩索給人攀爬，但路上指標不是特明顯，建議第一次爬大天池由專人帶領。
+    imageUrl: /img/about-direct-sourcing.jpg
+  - heading: 體驗潛水
+    text: 由專業教練一對一帶領，裝備皆會提供，整過
+    imageUrl: /img/about-reinvest-profits.jpg
 ---
