@@ -1,7 +1,7 @@
 ---
 title: 獨木舟海景山莊
 subtitle: Canoe Harbor View Inn
-image: img/canoe_front_door.jpg
+image: img/canoe_front_door_2.jpg
 blurb:
   heading: 獨木舟是這樣的故事......
   text: >-
