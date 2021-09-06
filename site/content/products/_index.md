@@ -100,7 +100,7 @@ pricing:
       items:
         - 不含油錢
         - 須自行加油
-        - 加油站營業至8點
+        - 加油站營業至20點
 text: "123123"
 type: products
 ---
